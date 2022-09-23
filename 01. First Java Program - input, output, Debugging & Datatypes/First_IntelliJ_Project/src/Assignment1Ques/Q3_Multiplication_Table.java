@@ -1,5 +1,5 @@
 // Q3-Take a number as an input and print the multiplication table for it.
-package AssignmentQuestions;
+package Assignment1Ques;
 
 import java.util.Scanner;
 

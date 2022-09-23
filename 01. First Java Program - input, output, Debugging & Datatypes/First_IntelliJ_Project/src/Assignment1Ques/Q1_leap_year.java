@@ -1,7 +1,7 @@
 // Q1-Input a year and find whether it is a leap year or not.
 
 //To know about leap year go to: https://learn.microsoft.com/en-us/office/troubleshoot/excel/determine-a-leap-year
-package AssignmentQuestions;
+package Assignment1Ques;
 
 import java.util.Scanner;
 

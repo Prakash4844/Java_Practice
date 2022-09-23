@@ -1,5 +1,5 @@
 // Q4-Take 2 numbers as inputs and find their HCF and LCM.
-package AssignmentQuestions;
+package Assignment1Ques;
 
 import java.util.Scanner;
 
