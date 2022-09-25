@@ -1,6 +1,8 @@
+// Reverse a no. using string
+//
 import java.util.Scanner;
 
-public class Reverse_no {
+public class Reverse_no_String {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
