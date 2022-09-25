@@ -16,7 +16,7 @@ Here is the structure of Contents:
        3. SimpleSum.java  T
        4. akeInput.java  
        5. TemperatureConvert.java 
-       6.  TypeCastings.java	
+       6. TypeCastings.java	
        7. TypePromotion.java
 </details>
 
@@ -31,7 +31,7 @@ Here is the structure of Contents:
      	6. Largest_num_of_3.java  
      	7. No_Occurrence.java  
      	8. Reverse_no_String.java  
-        1. Calculator.java       
+      9. Calculator.java       
 
 </details>
 
