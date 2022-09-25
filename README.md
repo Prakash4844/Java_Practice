@@ -23,15 +23,15 @@ Here is the structure of Contents:
 <details>
     <summary>02. Conditionals and loops</summary>
 
-     	1. Conditionals.java
-     	2. Loops.java  	
-     	3. Nth_Fibonacci.java  
-     	4. Reverse_no_wo_string.java  
-     	5. Char_Case_check.java  
-     	6. Largest_num_of_3.java  
-     	7. No_Occurrence.java  
-     	8. Reverse_no_String.java  
-     	9. Calculator.java       
+    1. Conditionals.java
+    2. Loops.java  	
+    3. Nth_Fibonacci.java  
+    4. Reverse_no_wo_string.java  
+    5. Char_Case_check.java  
+    6. Largest_num_of_3.java  
+    7. No_Occurrence.java  
+    8. Reverse_no_String.java  
+    9. Calculator.java       
 
 </details>
 
