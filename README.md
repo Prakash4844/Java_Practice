@@ -13,8 +13,8 @@ Here is the structure of Contents:
     2. First_IntelliJ_Project
        1. Main.java  
        2. PrimitiveDataTypes.java  
-       3. SimpleSum.java  T
-       4. akeInput.java  
+       3. SimpleSum.java 
+       4. TakeInput.java  
        5. TemperatureConvert.java 
        6. TypeCastings.java	
        7. TypePromotion.java
